@@ -224,7 +224,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-2" value="优化算法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="610.8532662725368" y="1222.3530228232762" width="180" height="45" as="geometry" />
+          <mxGeometry x="470.00326627253673" y="1222.3530228232762" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9oiqPXFo5RrO7Jx5CpTy-3" target="GayVBIQo6IMPHalEuqhT-40">
           <mxGeometry relative="1" as="geometry" />
@@ -245,7 +245,7 @@
           <mxGeometry x="767.6737268098683" y="1339.6359518643096" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-6" value="多目标进化算法（NSGA-II）" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="577.9932662725367" y="1339.6359518643096" width="80" height="50" as="geometry" />
+          <mxGeometry x="520.0032662725367" y="1339.6359518643096" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-7" value="数据交换与自动化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="920" y="572.81" width="80" height="50" as="geometry" />
