@@ -152,7 +152,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-31" value="分布结果表达与判读" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="533.6725668449197" y="529.9967346938776" width="102.36705882352942" height="46.53061224489796" as="geometry" />
+          <mxGeometry x="479.71" y="530" width="210.29" height="46.53" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-36" value="实测校核" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="812.7329411764706" y="539.8367346938776" width="102.36705882352942" height="46.53061224489796" as="geometry" />
