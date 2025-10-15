@@ -318,9 +318,6 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-8" value="Fluent求解设置与批处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="548" y="353.36878683224336" width="67" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-74" value="主导风—雨组合矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="227.349684131769" y="582.4501528709458" width="79.35958881828631" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9oiqPXFo5RrO7Jx5CpTy-76" target="9oiqPXFo5RrO7Jx5CpTy-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
