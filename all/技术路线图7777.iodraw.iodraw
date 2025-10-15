@@ -248,7 +248,7 @@
           <mxGeometry x="610.8532662725368" y="1339.6359518643096" width="150.84703901102523" height="68.56698698522712" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-7" value="数据交换与自动化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="888.5550795732008" y="572.8080375591633" width="150.84703901102523" height="45" as="geometry" />
+          <mxGeometry x="888.56" y="572.81" width="111.44" height="77.19" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-8" value="Fluent求解设置与批处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="758.45" y="572.83" width="58.3" height="78" as="geometry" />
