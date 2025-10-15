@@ -213,15 +213,6 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-27" value="Fluent–Grasshopper耦合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;flipH=0;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="555.9013684370324" y="287.94959218164445" width="222.20684869120166" height="35.71166140054376" as="geometry" />
         </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-28" value="外廊采光评价面与采样策略" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="381" y="353.36085090748765" width="67" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-29" value="欧拉多相流框架" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="48" y="353.3808509074876" width="67" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-30" value="天空模型与时段设定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="465" y="353.3529149827319" width="67" height="59" as="geometry" />
-        </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#666666;fontSize=14;" edge="1" parent="1" source="2o2XWtKAgSPk38yOWDfK-31" target="2o2XWtKAgSPk38yOWDfK-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -240,9 +231,6 @@
         <mxCell id="GayVBIQo6IMPHalEuqhT-40" value=" 帕累托筛选" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="714.8132529866242" y="809.527873180728" width="63.48767105462905" height="39.67962377838195" as="geometry" />
         </mxCell>
-        <mxCell id="GayVBIQo6IMPHalEuqhT-41" value="边界条件与雨型生成方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="131" y="353.3808509074876" width="67" height="59" as="geometry" />
-        </mxCell>
         <mxCell id="GayVBIQo6IMPHalEuqhT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#666666;fontSize=14;" parent="1" source="GayVBIQo6IMPHalEuqhT-44" target="GayVBIQo6IMPHalEuqhT-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -251,15 +239,6 @@
         </mxCell>
         <mxCell id="GayVBIQo6IMPHalEuqhT-44" value="参数化建模" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;flipH=0;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="214.65513651840126" y="287.94959218164445" width="142.84725987291537" height="35.71166140054376" as="geometry" />
-        </mxCell>
-        <mxCell id="GayVBIQo6IMPHalEuqhT-45" value="教学楼模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="215" y="353.38716402468737" width="67" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="GayVBIQo6IMPHalEuqhT-46" value="雨棚" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="310" y="353.38" width="42.02" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-1" value="Grasshopper参数化建模及采光评价" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="624" y="353.37" width="82.48" height="59" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#666666;fontSize=14;" edge="1" parent="1" source="9oiqPXFo5RrO7Jx5CpTy-2" target="9oiqPXFo5RrO7Jx5CpTy-6">
           <mxGeometry relative="1" as="geometry" />
@@ -288,12 +267,6 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-6" value="多目标进化算法（NSGA-II）" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="333.8849827589946" y="809.5251877532914" width="63.48767105462905" height="39.67962377838195" as="geometry" />
         </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-7" value="数据交换与自动化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="714.620546073605" y="353.37291498273186" width="67" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-8" value="Fluent求解设置与批处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="548" y="353.36878683224336" width="67" height="59" as="geometry" />
-        </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-20" value="入雨路径与回流区" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="585.4469433540803" y="582.4501528709458" width="79.35958881828631" height="40.12958038360297" as="geometry" />
         </mxCell>
@@ -311,6 +284,36 @@
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-52" value="稳健优化与安全系数建议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="675.7264115937629" y="1041.3203762216178" width="104.14358840623711" height="39.67962377838195" as="geometry" />
+        </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-73" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="48" y="353.3529149827319" width="733.620546073605" height="59.03424904195549" as="geometry" />
+        </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-28" value="外廊采光评价面与采样策略" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="9oiqPXFo5RrO7Jx5CpTy-73" vertex="1">
+          <mxGeometry x="333" y="0.00793592475577043" width="67" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-29" value="欧拉多相流框架" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="9oiqPXFo5RrO7Jx5CpTy-73" vertex="1">
+          <mxGeometry y="0.02793592475575224" width="67" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-30" value="天空模型与时段设定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="9oiqPXFo5RrO7Jx5CpTy-73" vertex="1">
+          <mxGeometry x="417" width="67" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="GayVBIQo6IMPHalEuqhT-41" value="边界条件与雨型生成方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="9oiqPXFo5RrO7Jx5CpTy-73" vertex="1">
+          <mxGeometry x="83" y="0.02793592475575224" width="67" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="GayVBIQo6IMPHalEuqhT-45" value="教学楼模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="9oiqPXFo5RrO7Jx5CpTy-73" vertex="1">
+          <mxGeometry x="167" y="0.03424904195549061" width="67" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="GayVBIQo6IMPHalEuqhT-46" value="雨棚" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="9oiqPXFo5RrO7Jx5CpTy-73" vertex="1">
+          <mxGeometry x="262" y="0.027085017268120737" width="42.02" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-1" value="Grasshopper参数化建模及采光评价" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="9oiqPXFo5RrO7Jx5CpTy-73">
+          <mxGeometry x="576" y="0.017085017268129832" width="82.48" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-7" value="数据交换与自动化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="9oiqPXFo5RrO7Jx5CpTy-73">
+          <mxGeometry x="666.620546073605" y="0.01999999999998181" width="67" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-8" value="Fluent求解设置与批处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="9oiqPXFo5RrO7Jx5CpTy-73">
+          <mxGeometry x="500" y="0.015871849511484015" width="67" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
