@@ -46,6 +46,9 @@
         <mxCell id="UpLcKNKwDOmggLjGsiqH-2" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="80" y="160.83668380070236" width="212.55719133371738" height="45.711324656818086" as="geometry" />
         </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpLcKNKwDOmggLjGsiqH-3" target="4887XPPuz9tYI8bahySn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UpLcKNKwDOmggLjGsiqH-3" value="研究对象与意义" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="312" y="160.83668380070236" width="212.55719133371738" height="45.711324656818086" as="geometry" />
         </mxCell>
