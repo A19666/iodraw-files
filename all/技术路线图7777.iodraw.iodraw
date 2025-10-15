@@ -183,6 +183,9 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#666666;fontSize=14;" edge="1" parent="1" source="2o2XWtKAgSPk38yOWDfK-24" target="9oiqPXFo5RrO7Jx5CpTy-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2o2XWtKAgSPk38yOWDfK-24" target="9oiqPXFo5RrO7Jx5CpTy-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-24" value="稳健性与情景复核" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="500.34965626423195" y="975.1828201925196" width="277.7585608640021" height="35.71166140054376" as="geometry" />
         </mxCell>
@@ -277,7 +280,7 @@
           <mxGeometry x="50" y="1040" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-48" value="多风向/雨强/台风极端下的性能波动" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="563" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="547" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-50" value="“后退+透光”型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="380" y="1040" width="60" height="60" as="geometry" />
