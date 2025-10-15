@@ -133,7 +133,7 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-17" value="Fluent–GH的耦合实现" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="429.3069523541021" y="776.1050775222277" width="348.3965308711588" height="35.71166140054376" as="geometry" />
         </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-18" value="决策变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-18" value="设计决策变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="48.18698069168388" y="844.5266197071056" width="63.48767105462905" height="39.67962377838195" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-19" value="目标函数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
