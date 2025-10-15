@@ -35,7 +35,7 @@
           <mxGeometry x="200" y="180" width="397" height="31" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-7" value="典型几何与样本选取" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="200" y="520" width="63" height="30" as="geometry" />
+          <mxGeometry x="170" y="380" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-8" value="无遮雨基线仿真与热图" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="301" y="520" width="63" height="30" as="geometry" />
@@ -47,16 +47,16 @@
           <mxGeometry x="504" y="520" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-11" value="中庭尺度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="120" y="580" width="63" height="30" as="geometry" />
+          <mxGeometry x="90" y="440" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-12" value="外廊净宽" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="200" y="580" width="63" height="30" as="geometry" />
+          <mxGeometry x="170" y="440" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-14" value="层高" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="120" y="630" width="63" height="30" as="geometry" />
+          <mxGeometry x="90" y="490" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-15" value="扶手高度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="200" y="630" width="63" height="30" as="geometry" />
+          <mxGeometry x="170" y="490" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-16" value="遮雨系统多目标优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="290" y="790" width="63" height="30" as="geometry" />
