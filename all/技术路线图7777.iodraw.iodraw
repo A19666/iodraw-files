@@ -280,10 +280,10 @@
           <mxGeometry x="50" y="1040" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-48" value="多风向/雨强/台风极端下的性能波动" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-50" value="“后退+透光”型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1040" width="60" height="60" as="geometry" />
+          <mxGeometry x="370" y="1040" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-51" value="“深挑+小倾角”型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="290" y="1040" width="60" height="60" as="geometry" />
@@ -337,10 +337,10 @@
           <mxGeometry x="714.8169433540804" y="614.7401528709457" width="79.35958881828631" height="40.12958038360297" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-81" value="基线（无雨棚/常规雨棚）相对提升幅度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1040" width="110" height="60" as="geometry" />
+          <mxGeometry x="150" y="1040" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-82" value="提出设计策略" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1040" width="60" height="60" as="geometry" />
+          <mxGeometry x="460" y="1040" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
