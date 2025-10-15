@@ -322,7 +322,7 @@
           <mxGeometry x="290" y="517.03" width="156.63" height="35.71" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-77" value="欧拉多相流框架与湍流模型选择" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="319.37" y="582.45" width="120.63" height="40.13" as="geometry" />
+          <mxGeometry x="310" y="582.45" width="120.63" height="40.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
