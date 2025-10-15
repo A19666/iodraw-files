@@ -104,9 +104,9 @@
           <mxGeometry x="510" y="280" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-31" value="机理与模型选择" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="207" y="380" width="66" height="30" as="geometry" />
+          <mxGeometry x="247" y="380" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-33" value="&#xa;广州历史实测分位场景构建&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-33" value="广州历史实测分位场景构建" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="325" y="380" width="66" height="30" as="geometry" />
         </mxCell>
       </root>
