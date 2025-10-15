@@ -155,7 +155,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-24" value="稳健性与情景复核" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="820.0041319563961" y="1645.721688357955" width="180" height="45" as="geometry" />
+          <mxGeometry x="770.0041319563961" y="1645.721688357955" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="GayVBIQo6IMPHalEuqhT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2o2XWtKAgSPk38yOWDfK-25" target="2o2XWtKAgSPk38yOWDfK-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -275,13 +275,13 @@
           <mxGeometry x="79.01" y="1729" width="180.99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-48" value="多风向/雨强/台风极端下的性能波动" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="639.33" y="1729" width="80.23" height="50" as="geometry" />
+          <mxGeometry x="660" y="1729" width="190.67" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-50" value="“后退+透光”型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="443.77" y="1729" width="80.23" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-51" value="“深挑+小倾角”型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="317.94999999999993" y="1729" width="80.23" height="50" as="geometry" />
+          <mxGeometry x="317.95" y="1729" width="112.05" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-52" value="稳健优化与安全系数建议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="870" y="1729" width="131.23" height="50" as="geometry" />
