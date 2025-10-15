@@ -139,9 +139,6 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-31" value="分布结果表达与判读" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="438.1625668449198" y="539.8367346938776" width="102.36705882352942" height="46.53061224489796" as="geometry" />
         </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-34" value="边界与求解设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="569.2234224598931" y="539.8367346938776" width="102.36705882352942" height="46.53061224489796" as="geometry" />
-        </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-35" value="指标体系与提取" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="688.6516577540107" y="539.8367346938776" width="102.36705882352942" height="46.53061224489796" as="geometry" />
         </mxCell>
@@ -194,7 +191,7 @@
           <mxGeometry x="864.1316042780749" y="382.5344897959184" width="102.36705882352942" height="46.53061224489796" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-20" value="入雨路径与回流区" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="641.5512834224598" y="659.9995918367348" width="97.71401069518717" height="46.53061224489796" as="geometry" />
+          <mxGeometry x="641.5512834224598" y="669.9995918367348" width="97.71401069518717" height="46.53061224489796" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
