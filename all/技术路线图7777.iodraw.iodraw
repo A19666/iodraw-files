@@ -79,7 +79,7 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-17" value="Fluent–GH的耦合实现" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="485.65" y="827.55" width="62" height="46.53" as="geometry" />
         </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-18" value="提取设计决策变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-18" value="决策变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="255.5067914438503" y="889.5957142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-19" value="构建参数化模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
