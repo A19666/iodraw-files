@@ -134,10 +134,10 @@
           <mxGeometry x="429.3069523541021" y="776.1050775222277" width="348.3965308711588" height="35.71166140054376" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-18" value="设计决策变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="48.18698069168388" y="844.5266197071056" width="63.48767105462905" height="39.67962377838195" as="geometry" />
+          <mxGeometry x="48.19" y="844.53" width="87.81" height="39.68" as="geometry" />
         </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-19" value="目标函数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="143.42196959510744" y="844.5266197071056" width="63.48767105462905" height="39.67962377838195" as="geometry" />
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-19" value="评价目标函数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="143" y="844.53" width="86.91" height="39.68" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-20" value="约束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="238.65347617705106" y="844.5266197071056" width="63.48767105462905" height="39.67962377838195" as="geometry" />
