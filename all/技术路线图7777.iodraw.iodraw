@@ -70,22 +70,6 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-5" value="第5&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;章&amp;nbsp;&lt;/span&gt;遮雨系统&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;最优解集分析及设计策略&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="48" y="917.9517231244029" width="730.1082171282341" height="56.226026893967216" as="geometry" />
         </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;endArrow=none;endFill=0;" edge="1" parent="1" source="2o2XWtKAgSPk38yOWDfK-6" target="2o2XWtKAgSPk38yOWDfK-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="373.37431415497394" y="258.1097802924535" />
-              <mxPoint x="667.0047927826332" y="258.1097802924535" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;endArrow=none;endFill=0;" edge="1" parent="1" source="2o2XWtKAgSPk38yOWDfK-6" target="2o2XWtKAgSPk38yOWDfK-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="373.37431415497394" y="258.1097802924535" />
-              <mxPoint x="452.73390297326023" y="258.1097802924535" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;endArrow=none;endFill=0;" edge="1" parent="1" source="2o2XWtKAgSPk38yOWDfK-6" target="GayVBIQo6IMPHalEuqhT-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -93,9 +77,6 @@
               <mxPoint x="286.07876645485896" y="258.1097802924535" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;endArrow=none;endFill=0;" edge="1" parent="1" source="2o2XWtKAgSPk38yOWDfK-6" target="GayVBIQo6IMPHalEuqhT-44">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-6" value="第2章 模拟方法与仿真平台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="48" y="182.7184951135278" width="730.1082171282341" height="56.226026893967216" as="geometry" />
