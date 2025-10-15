@@ -86,7 +86,7 @@
           <mxGeometry x="290.06" y="810" width="239.94" height="46.53" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-17" value="Fluent–GH的耦合实现" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="739.26" y="826.9999999999999" width="62" height="46.53" as="geometry" />
+          <mxGeometry x="904.5" y="819.9999999999999" width="62" height="46.53" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-18" value="决策变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="255.5067914438503" y="889.5957142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
@@ -187,8 +187,11 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-1" value="Grasshopper参数化建模及采光评价" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="980.001604278075" y="382.5344897959184" width="102.36705882352942" height="46.53061224489796" as="geometry" />
         </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9oiqPXFo5RrO7Jx5CpTy-2" target="9oiqPXFo5RrO7Jx5CpTy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-2" value="优化算法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="610.2416042780749" y="810.0044897959184" width="102.36705882352942" height="46.53061224489796" as="geometry" />
+          <mxGeometry x="600.2416042780749" y="810.0044897959184" width="102.36705882352942" height="46.53061224489796" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-3" value="天空模型与时段设定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1070.0016042780749" y="976.6744897959184" width="102.36705882352942" height="46.53061224489796" as="geometry" />
