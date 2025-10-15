@@ -271,7 +271,7 @@
           <mxGeometry x="629.9969433540804" y="582.4501528709458" width="79.35958881828631" height="40.12958038360297" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-47" value="代表方案选取准则与性能对照" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="48" y="1041.32" width="67" height="59" as="geometry" />
+          <mxGeometry x="48" y="1041.32" width="82" height="59" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-48" value="多风向/雨强/台风极端下的性能波动" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="500.3417203053502" y="1041.3203762216178" width="151.31492799982647" height="39.67962377838195" as="geometry" />
@@ -331,7 +331,7 @@
           <mxGeometry x="714.8169433540804" y="614.7401528709457" width="79.35958881828631" height="40.12958038360297" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-81" value="基线（无雨棚/常规雨棚）相对提升幅度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="163.08" y="1041.3203762216178" width="143.6329198022164" height="39.67962377838195" as="geometry" />
+          <mxGeometry x="140" y="1041.32" width="110" height="58.68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
