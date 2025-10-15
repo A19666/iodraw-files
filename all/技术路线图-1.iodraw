@@ -94,6 +94,9 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-27" value="多目标遗传算法及相关软件介绍" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="382" y="230" width="128" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-28" value="多目标遗传算法及相关软件介绍" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="364" y="280" width="66" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
