@@ -286,7 +286,7 @@
           <mxGeometry x="370" y="1040" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-51" value="“深挑+小倾角”型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1040" width="60" height="60" as="geometry" />
+          <mxGeometry x="290" y="1040" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-52" value="稳健优化与安全系数建议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="680" y="1040" width="100" height="60" as="geometry" />
@@ -340,7 +340,7 @@
           <mxGeometry x="150" y="1040" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-82" value="提出设计策略" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1040" width="60" height="60" as="geometry" />
+          <mxGeometry x="450" y="1040" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
