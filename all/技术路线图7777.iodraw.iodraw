@@ -122,13 +122,13 @@
           <mxGeometry x="819.01" y="1222.35" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-18" value="决策变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="69.99561197136745" y="1339.637756258704" width="80" height="50" as="geometry" />
+          <mxGeometry x="79.99561197136745" y="1339.637756258704" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-19" value="目标函数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="223.96926150572716" y="1339.637756258704" width="80" height="50" as="geometry" />
+          <mxGeometry x="200" y="1339.637756258704" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-20" value="约束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="373.12726732479865" y="1339.637756258704" width="80" height="50" as="geometry" />
+          <mxGeometry x="320" y="1339.637756258704" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-21" value="运行多目标优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1193.22225565674" y="1460.0011001716491" width="143.990355419615" height="68.56698698522712" as="geometry" />
@@ -230,22 +230,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-3" value="指标回写" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="827" y="1339.6359518643096" width="80" height="50" as="geometry" />
+          <mxGeometry x="800" y="1339.6359518643096" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9oiqPXFo5RrO7Jx5CpTy-4" target="9oiqPXFo5RrO7Jx5CpTy-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-4" value="网格/求解" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1339.6359518643096" width="80" height="50" as="geometry" />
+          <mxGeometry x="680" y="1339.6359518643096" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9oiqPXFo5RrO7Jx5CpTy-5" target="9oiqPXFo5RrO7Jx5CpTy-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-5" value="参数组合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="620.0037268098683" y="1339.6359518643096" width="80" height="50" as="geometry" />
+          <mxGeometry x="560" y="1339.6359518643096" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-6" value="多目标进化算法（NSGA-II）" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="520.0032662725367" y="1339.6359518643096" width="80" height="50" as="geometry" />
+          <mxGeometry x="440" y="1339.6359518643096" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-7" value="数据交换与自动化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="920" y="572.81" width="80" height="50" as="geometry" />
