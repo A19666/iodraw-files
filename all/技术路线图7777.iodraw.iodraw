@@ -270,7 +270,7 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-5" value="参数组合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="429.1164893409382" y="809.5251877532914" width="63.48767105462905" height="39.67962377838195" as="geometry" />
         </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-6" value="多目标进化算法（NSGA-II）" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-6" value="多目标进化算法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="333.8849827589946" y="809.5251877532914" width="63.48767105462905" height="39.67962377838195" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-20" value="入雨路径与回流区" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
