@@ -73,6 +73,9 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-15" value="时变特征与关键时刻切片" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="594.8512834224597" y="630.1495918367348" width="97.71401069518717" height="46.53061224489796" as="geometry" />
         </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2o2XWtKAgSPk38yOWDfK-16" target="2o2XWtKAgSPk38yOWDfK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-16" value="参数化建模与变量体系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="321.71999999999997" y="827" width="68.06" height="46.53" as="geometry" />
         </mxCell>
