@@ -103,6 +103,9 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-26" value="采光模拟与指标计算" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="689.0979144385027" y="291.67346938775506" width="97.71401069518717" height="46.53061224489796" as="geometry" />
         </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2o2XWtKAgSPk38yOWDfK-27" target="9oiqPXFo5RrO7Jx5CpTy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-27" value="Fluent–Grasshopper耦合" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="841.63" y="291.67" width="147.37" height="46.53" as="geometry" />
         </mxCell>
@@ -166,8 +169,8 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-6" value="天空模型与时段设定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1350.0016042780749" y="296.67448979591836" width="102.36705882352942" height="46.53061224489796" as="geometry" />
         </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-7" value="天空模型与时段设定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1360.0016042780749" y="306.67448979591836" width="102.36705882352942" height="46.53061224489796" as="geometry" />
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-7" value="数据交换与自动化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1093.161604278075" y="369.2144897959184" width="102.36705882352942" height="46.53061224489796" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-8" value="Fluent求解设置与批处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="864.1316042780749" y="369.2144897959184" width="102.36705882352942" height="46.53061224489796" as="geometry" />
