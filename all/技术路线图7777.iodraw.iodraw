@@ -74,7 +74,7 @@
           <mxGeometry x="613.8764705882353" y="1254.2857142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-21" value="运行多目标优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="727.1006417112301" y="1254.2857142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
+          <mxGeometry x="630.9406417112301" y="1192.2357142857143" width="97.71401069518717" height="46.53061224489796" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-22" value="形态与外窗优化实验结果验证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="339.3466310160428" y="1502.4489795918366" width="139.59144385026738" height="77.55102040816327" as="geometry" />
