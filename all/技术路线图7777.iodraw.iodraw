@@ -248,10 +248,16 @@
           <mxGeometry x="114.62" y="1790" width="116.23" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-48" value="代表性方案A/B/C" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1810" width="116.23" height="50" as="geometry" />
+          <mxGeometry x="870" y="1820" width="116.23" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-49" value="代表性方案A/B/C" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="134.62" y="1810" width="116.23" height="50" as="geometry" />
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-50" value="代表性方案A/B/C" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1830" width="116.23" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-51" value="代表性方案A/B/C" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="374.41999999999996" y="1800" width="116.23" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-52" value="代表性方案A/B/C" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1098.49" y="1870" width="116.23" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
