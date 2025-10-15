@@ -83,10 +83,10 @@
           <mxGeometry x="255.5067914438503" y="889.5957142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-19" value="目标函数" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="383.46561497326206" y="889.5957142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
+          <mxGeometry x="359.99561497326204" y="889.5957142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
         </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-20" value="遮雨和采光模拟" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="514.5264705882353" y="889.5957142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-20" value="约束" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="461.2164705882353" y="889.5957142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-21" value="运行多目标优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="643.6506417112302" y="827.5457142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
