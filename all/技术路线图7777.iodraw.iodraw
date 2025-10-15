@@ -140,8 +140,11 @@
         <mxCell id="GayVBIQo6IMPHalEuqhT-44" value="参数化建模" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="486.9979144385027" y="291.67346938775506" width="97.71401069518717" height="46.53061224489796" as="geometry" />
         </mxCell>
-        <mxCell id="GayVBIQo6IMPHalEuqhT-45" value="采光" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="471.5109090909091" y="369.2244897959184" width="102.36705882352942" height="46.53061224489796" as="geometry" />
+        <mxCell id="GayVBIQo6IMPHalEuqhT-45" value="教学楼模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="471.51" y="369.22" width="58.49" height="46.53" as="geometry" />
+        </mxCell>
+        <mxCell id="GayVBIQo6IMPHalEuqhT-46" value="教学楼模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="541.75" y="369.22" width="58.49" height="46.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
