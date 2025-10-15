@@ -333,6 +333,9 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-81" value="基线（无雨棚/常规雨棚）相对提升幅度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="140" y="1041.32" width="110" height="58.68" as="geometry" />
         </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-82" value="“后退+透光”型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="401.33" y="1041.6399999999999" width="63.67" height="58.68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
