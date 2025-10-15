@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="HeEWILMSTTiUaFGvdzRX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeEWILMSTTiUaFGvdzRX-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="350" as="targetPoint" />
+            <mxPoint x="598" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HeEWILMSTTiUaFGvdzRX-10" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
