@@ -212,10 +212,10 @@
           <mxGeometry x="326" y="456.0802539106779" width="143.990355419615" height="45" as="geometry" />
         </mxCell>
         <mxCell id="GayVBIQo6IMPHalEuqhT-45" value="教学楼模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="279.99570579106717" y="572.8279551122196" width="80" height="50" as="geometry" />
+          <mxGeometry x="309.99570579106717" y="572.8279551122196" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GayVBIQo6IMPHalEuqhT-46" value="雨棚" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="375.18064323779004" y="572.8179551122196" width="80" height="50" as="geometry" />
+          <mxGeometry x="405.18064323779004" y="572.8179551122196" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-1" value="Grasshopper参数化建模及采光评价" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="827" y="572.81" width="80" height="50" as="geometry" />
