@@ -59,9 +59,9 @@
           <mxGeometry x="200" y="630" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-16" value="遮雨系统多目标优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="200" y="800" width="63" height="30" as="geometry" />
+          <mxGeometry x="253" y="790" width="63" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-17" value="遮雨系统多目标优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-17" value="遮雨采光多目标优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="316" y="800" width="63" height="30" as="geometry" />
         </mxCell>
       </root>
