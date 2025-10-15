@@ -19,9 +19,9 @@
         <mxCell id="HeEWILMSTTiUaFGvdzRX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="620" width="660" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HeEWILMSTTiUaFGvdzRX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeEWILMSTTiUaFGvdzRX-10">
+        <mxCell id="HeEWILMSTTiUaFGvdzRX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="HeEWILMSTTiUaFGvdzRX-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="598" y="350" as="targetPoint" />
+            <mxPoint x="592" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HeEWILMSTTiUaFGvdzRX-10" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
