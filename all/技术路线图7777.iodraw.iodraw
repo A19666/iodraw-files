@@ -271,19 +271,19 @@
           <mxGeometry x="629.9969433540804" y="582.4501528709458" width="79.35958881828631" height="40.12958038360297" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-47" value="方案选取准则与性能对照" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="48" y="1041.32" width="82" height="59" as="geometry" />
+          <mxGeometry x="50" y="1040" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-48" value="多风向/雨强/台风极端下的性能波动" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="562" y="1041.32" width="119.66" height="58.68" as="geometry" />
+          <mxGeometry x="560" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-50" value="“后退+透光”型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="377" y="1041.32" width="63.67" height="58.68" as="geometry" />
+          <mxGeometry x="380" y="1040" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-51" value="“深挑+小倾角”型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="257" y="1041.32" width="88.92" height="58.68" as="geometry" />
+          <mxGeometry x="260" y="1040" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-52" value="稳健优化与安全系数建议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="675.73" y="1041.32" width="104.14" height="58.68" as="geometry" />
+          <mxGeometry x="680" y="1040" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-28" value="外廊采光评价面与采样策略" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="381" y="353.36085090748765" width="67" height="59" as="geometry" />
@@ -331,10 +331,10 @@
           <mxGeometry x="714.8169433540804" y="614.7401528709457" width="79.35958881828631" height="40.12958038360297" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-81" value="基线（无雨棚/常规雨棚）相对提升幅度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1041.32" width="110" height="58.68" as="geometry" />
+          <mxGeometry x="140" y="1040" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-82" value="提出设计策略" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="483" y="1041.32" width="63.67" height="58.68" as="geometry" />
+          <mxGeometry x="480" y="1040" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
