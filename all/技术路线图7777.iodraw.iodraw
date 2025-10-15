@@ -61,8 +61,8 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-16" value="参数化建模与变量体系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="416" y="1192.24" width="68.06" height="46.53" as="geometry" />
         </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-17" value="遮雨采光多目标优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="632.0004812834225" y="1192.2448979591836" width="97.71401069518717" height="46.53061224489796" as="geometry" />
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-17" value="Fluent–GH的耦合实现" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="552" y="1192.24" width="62" height="46.53" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-18" value="提取设计决策变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="354.8567914438503" y="1254.2857142857142" width="97.71401069518717" height="46.53061224489796" as="geometry" />
