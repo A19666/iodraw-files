@@ -211,8 +211,8 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-36" value="实测校核" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="600" y="524.03" width="178.3" height="35.71" as="geometry" />
         </mxCell>
-        <mxCell id="GayVBIQo6IMPHalEuqhT-40" value=" 帕累托筛选" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="702" y="844.53" width="76.3" height="39.68" as="geometry" />
+        <mxCell id="GayVBIQo6IMPHalEuqhT-40" value=" 帕累托最优解" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="688" y="844.53" width="90.3" height="39.68" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#666666;fontSize=14;" edge="1" parent="1" source="9oiqPXFo5RrO7Jx5CpTy-2" target="9oiqPXFo5RrO7Jx5CpTy-6">
           <mxGeometry relative="1" as="geometry" />
