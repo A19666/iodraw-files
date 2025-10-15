@@ -31,6 +31,18 @@
         <mxCell id="UpLcKNKwDOmggLjGsiqH-5" value="研究方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="504" y="270" width="93" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-1" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="420" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-2" value="研究对象与意义" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="301" y="420" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-3" value="国内外研究现状" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="403" y="420" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-4" value="研究方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="504" y="420" width="93" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
