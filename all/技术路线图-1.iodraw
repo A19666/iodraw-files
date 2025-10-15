@@ -49,8 +49,11 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-11" value="中庭尺度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="150" y="710" width="63" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2o2XWtKAgSPk38yOWDfK-12" value="中庭尺度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-12" value="外廊净宽" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="230" y="710" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-13" value="中庭尺度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="730" width="63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
