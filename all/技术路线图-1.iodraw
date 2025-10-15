@@ -98,7 +98,7 @@
           <mxGeometry x="364" y="280" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-29" value="遗传算法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="374" y="290" width="66" height="30" as="geometry" />
+          <mxGeometry x="288.5" y="280" width="66" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
