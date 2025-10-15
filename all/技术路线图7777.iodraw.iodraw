@@ -179,7 +179,7 @@
           <mxGeometry x="80" y="572.82" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-30" value="天空模型与时段设定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="680.84" y="572.81" width="80" height="50" as="geometry" />
+          <mxGeometry x="620" y="572.81" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2o2XWtKAgSPk38yOWDfK-31" target="2o2XWtKAgSPk38yOWDfK-14">
           <mxGeometry relative="1" as="geometry" />
