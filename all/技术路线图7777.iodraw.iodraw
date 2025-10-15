@@ -244,6 +244,9 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-20" value="入雨路径与回流区" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="758.4475334212183" y="957.3208675898384" width="143.990355419615" height="68.56698698522712" as="geometry" />
         </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-47" value="代表性方案A/B/C" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="114.62" y="1790" width="116.23" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
