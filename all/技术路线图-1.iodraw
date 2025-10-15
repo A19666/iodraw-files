@@ -112,6 +112,9 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-34" value="边界与求解设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="403" y="380" width="66" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-35" value="指标体系与提取" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="66" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
