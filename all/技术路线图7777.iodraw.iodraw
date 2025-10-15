@@ -315,6 +315,9 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-74" value="主导风—雨组合矩阵" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="227.349684131769" y="582.4501528709458" width="79.35958881828631" height="40.12958038360297" as="geometry" />
         </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-75" value="模型与数值设定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="275.939684131769" y="584.0001528709457" width="79.35958881828631" height="40.12958038360297" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
