@@ -200,7 +200,7 @@
           <mxGeometry x="1330.0028275094273" y="1339.6293357515306" width="117.88717249057274" height="68.56608478802994" as="geometry" />
         </mxCell>
         <mxCell id="GayVBIQo6IMPHalEuqhT-41" value="边界条件与雨型生成方法" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="179.99991310742985" y="572.8245712249989" width="150.84703901102523" height="45" as="geometry" />
+          <mxGeometry x="200" y="572.82" width="80" height="77.18" as="geometry" />
         </mxCell>
         <mxCell id="GayVBIQo6IMPHalEuqhT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GayVBIQo6IMPHalEuqhT-44" target="GayVBIQo6IMPHalEuqhT-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
