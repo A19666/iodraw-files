@@ -79,6 +79,9 @@
         <mxCell id="2o2XWtKAgSPk38yOWDfK-22" value="形态与外窗优化实验结果验证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="200" y="990" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2o2XWtKAgSPk38yOWDfK-23" value="形态与外窗优化实验结果验证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1000" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
