@@ -270,8 +270,8 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-20" value="入雨路径与回流区" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="629.9969433540804" y="582.4501528709458" width="79.35958881828631" height="40.12958038360297" as="geometry" />
         </mxCell>
-        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-47" value="代表方案选取准则与性能对照" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="48" y="1041.32" width="82" height="59" as="geometry" />
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-47" value="方案选取准则与性能对照" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="48" y="1041.32" width="72" height="59" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-48" value="多风向/雨强/台风极端下的性能波动" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="500.34" y="1041.32" width="119.66" height="58.68" as="geometry" />
@@ -283,7 +283,7 @@
           <mxGeometry x="260" y="1041.32" width="88.92" height="58.68" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-52" value="稳健优化与安全系数建议" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="675.7264115937629" y="1041.3203762216178" width="104.14358840623711" height="39.67962377838195" as="geometry" />
+          <mxGeometry x="675.73" y="1041.32" width="104.14" height="58.68" as="geometry" />
         </mxCell>
         <mxCell id="2o2XWtKAgSPk38yOWDfK-28" value="外廊采光评价面与采样策略" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="381" y="353.36085090748765" width="67" height="59" as="geometry" />
