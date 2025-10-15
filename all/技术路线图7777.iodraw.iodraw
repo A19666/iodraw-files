@@ -28,6 +28,9 @@
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#666666;" edge="1" parent="1" source="4887XPPuz9tYI8bahySn-2" target="2o2XWtKAgSPk38yOWDfK-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9oiqPXFo5RrO7Jx5CpTy-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4887XPPuz9tYI8bahySn-2" target="9oiqPXFo5RrO7Jx5CpTy-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4887XPPuz9tYI8bahySn-2" value="第3章 基于欧拉多相流模型的风驱雨数值模拟和有效性验证" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="48.19083841261271" y="427.79623778381955" width="730.1082171282341" height="56.226026893967216" as="geometry" />
         </mxCell>
@@ -322,10 +325,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-76" value="模型与数值设定" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="240" y="517.03" width="130" height="35.71" as="geometry" />
+          <mxGeometry x="250" y="517.03" width="130" height="35.71" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-77" value="欧拉多相流框架与湍流模型选择" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="245" y="582.45" width="120.63" height="60" as="geometry" />
+          <mxGeometry x="255" y="582.45" width="120.63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9oiqPXFo5RrO7Jx5CpTy-79" value="现场布点" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;imageHeight=24;imageWidth=19;gradientColor=none;fontSize=14;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="600" y="582.4501528709458" width="79.35958881828631" height="60" as="geometry" />
