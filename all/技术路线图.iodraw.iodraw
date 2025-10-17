@@ -13,6 +13,9 @@
         <mxCell id="LSTJSkC7-hS446sbI1py-1" value="调研广州高校围合式教学楼" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="100" y="210" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-1" target="JfAB1X2YwSDd0Y4bELBA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-1" value="建筑基本数据、中庭尺度、外廊宽度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="280" height="30" as="geometry" />
         </mxCell>
