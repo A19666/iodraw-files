@@ -50,7 +50,7 @@
           <mxGeometry x="440" y="300" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-15" value="实测校核" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="440" y="410" width="260" height="30" as="geometry" />
+          <mxGeometry x="440" y="380" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-22" target="JfAB1X2YwSDd0Y4bELBA-13">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-24" value="WDR分布结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="440" y="370" width="260" height="30" as="geometry" />
+          <mxGeometry x="440" y="340.97" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillStyle=hatch;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="770" y="130" width="300" height="290" as="geometry" />
