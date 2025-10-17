@@ -63,7 +63,7 @@
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillStyle=hatch;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="130" width="300" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="JfAB1X2YwSDd0Y4bELBA-26" value="ANSYS fluent数值设定、模型选取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="JfAB1X2YwSDd0Y4bELBA-26" value="获取EPW文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="210" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-27" value="ANSYS fluent模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
