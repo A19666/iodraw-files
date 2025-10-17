@@ -137,7 +137,7 @@
         <mxCell id="qfVjqELMxZvmlqvvZ34_-8" value="遮雨评价指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="370.11" width="123.07692307692308" height="29.999999999999986" as="geometry" />
         </mxCell>
-        <mxCell id="qfVjqELMxZvmlqvvZ34_-12" value="外廊风驱雨模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-12" value="外廊雨水模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="300.11" width="123.07692307692308" height="29.999999999999986" as="geometry" />
         </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-13" value="外廊采光模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
