@@ -81,6 +81,9 @@
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillStyle=hatch;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="770" y="130" width="300" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-26" target="qfVjqELMxZvmlqvvZ34_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-26" value="获取EPW文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="800" y="180" width="260" height="30" as="geometry" />
         </mxCell>
