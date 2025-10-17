@@ -139,13 +139,11 @@
         <mxCell id="qfVjqELMxZvmlqvvZ34_-28" value="输入模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="525" y="430" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qfVjqELMxZvmlqvvZ34_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.169;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-2" target="JfAB1X2YwSDd0Y4bELBA-25">
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-2" target="JfAB1X2YwSDd0Y4bELBA-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="455" />
               <mxPoint x="740" y="391" />
-              <mxPoint x="790" y="391" />
-              <mxPoint x="790" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
