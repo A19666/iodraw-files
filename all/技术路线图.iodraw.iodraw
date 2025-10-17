@@ -81,9 +81,6 @@
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-24" value="WDR分布结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="450" y="370" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qfVjqELMxZvmlqvvZ34_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-25" target="qfVjqELMxZvmlqvvZ34_-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillStyle=hatch;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="770" y="130" width="300" height="290" as="geometry" />
         </mxCell>
@@ -145,6 +142,9 @@
         </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-8" value="遮雨评价指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="450.11" width="123.07692307692308" height="29.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfVjqELMxZvmlqvvZ34_-12" target="qfVjqELMxZvmlqvvZ34_-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-12" value="外廊雨水模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="300.11" width="123.07692307692308" height="29.999999999999986" as="geometry" />
