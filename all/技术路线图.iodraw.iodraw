@@ -153,16 +153,6 @@
         <mxCell id="qfVjqELMxZvmlqvvZ34_-13" value="外廊采光模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="936.9230769230769" y="300" width="123.07692307692308" height="29.999999999999986" as="geometry" />
         </mxCell>
-        <mxCell id="qfVjqELMxZvmlqvvZ34_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="740" y="555" />
-              <mxPoint x="740" y="370" />
-              <mxPoint x="784" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfVjqELMxZvmlqvvZ34_-23" target="JfAB1X2YwSDd0Y4bELBA-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -180,6 +170,9 @@
         </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-28" value="输入模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="525" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-2" target="JfAB1X2YwSDd0Y4bELBA-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
