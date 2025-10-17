@@ -17,7 +17,7 @@
           <mxGeometry x="80" y="280" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-2" value="高校围合式教学楼遮雨系统典型模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="80" y="540" width="280" height="30" as="geometry" />
+          <mxGeometry x="80" y="340" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JfAB1X2YwSDd0Y4bELBA-3" target="JfAB1X2YwSDd0Y4bELBA-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
