@@ -78,7 +78,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JfAB1X2YwSDd0Y4bELBA-26" value="获取EPW文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="JfAB1X2YwSDd0Y4bELBA-26" value="Grasshopper平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="790" y="178" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-28" target="JfAB1X2YwSDd0Y4bELBA-36">
