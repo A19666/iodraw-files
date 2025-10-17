@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillStyle=hatch;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="510" width="300" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillStyle=hatch;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="440" width="300" height="50" as="geometry" />
         </mxCell>
@@ -121,12 +124,6 @@
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-42" value="优化目标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="1360" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JfAB1X2YwSDd0Y4bELBA-30" value="采光评价指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="936.9230769230769" y="450" width="123.07692307692308" height="29.999999999999986" as="geometry" />
-        </mxCell>
-        <mxCell id="qfVjqELMxZvmlqvvZ34_-8" value="遮雨评价指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="800" y="450.11" width="123.07692307692308" height="29.999999999999986" as="geometry" />
-        </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfVjqELMxZvmlqvvZ34_-12" target="qfVjqELMxZvmlqvvZ34_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -141,9 +138,6 @@
               <mxPoint x="1420" y="300" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qfVjqELMxZvmlqvvZ34_-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillStyle=hatch;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="510" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-28" value="输入模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="525" y="430" width="90" height="30" as="geometry" />
@@ -184,6 +178,15 @@
         </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-13" value="外廊采光模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="qfVjqELMxZvmlqvvZ34_-36">
           <mxGeometry x="136.9230769230769" width="123.07692307692308" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="450" width="260" height="30.110000000000014" as="geometry" />
+        </mxCell>
+        <mxCell id="JfAB1X2YwSDd0Y4bELBA-30" value="采光评价指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="qfVjqELMxZvmlqvvZ34_-37" vertex="1">
+          <mxGeometry x="136.9230769230769" width="123.07692307692308" height="29.999999999999986" as="geometry" />
+        </mxCell>
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-8" value="遮雨评价指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="qfVjqELMxZvmlqvvZ34_-37">
+          <mxGeometry y="0.11000000000001364" width="123.07692307692308" height="29.999999999999986" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
