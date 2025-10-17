@@ -19,14 +19,6 @@
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-1" value="建筑基本数据、中庭尺度、外廊宽度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JfAB1X2YwSDd0Y4bELBA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JfAB1X2YwSDd0Y4bELBA-2" target="JfAB1X2YwSDd0Y4bELBA-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="555" />
-              <mxPoint x="750" y="315" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-2" value="高校围合式教学楼遮雨系统典型模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="80" y="540" width="280" height="30" as="geometry" />
         </mxCell>
@@ -92,11 +84,10 @@
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-26" value="获取EPW文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="800" y="180" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qfVjqELMxZvmlqvvZ34_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-27" target="JfAB1X2YwSDd0Y4bELBA-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JfAB1X2YwSDd0Y4bELBA-27" value="外廊采光模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="800" y="300" width="260" height="30" as="geometry" />
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JfAB1X2YwSDd0Y4bELBA-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="330.0000000000001" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-28" value="外廊遮雨系统设计参数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="800" y="520" width="260" height="30" as="geometry" />
