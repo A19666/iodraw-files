@@ -82,7 +82,7 @@
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillStyle=hatch;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1184.6" y="130" width="300" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="JfAB1X2YwSDd0Y4bELBA-35" value="获取EPW文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="JfAB1X2YwSDd0Y4bELBA-35" value="Wallacei插件设置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="1204.6" y="180" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JfAB1X2YwSDd0Y4bELBA-36" target="JfAB1X2YwSDd0Y4bELBA-39" edge="1">
