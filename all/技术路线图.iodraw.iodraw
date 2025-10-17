@@ -48,7 +48,7 @@
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-13" value="ANSYS fluent数值设定、模型选取" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="450" y="210" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JfAB1X2YwSDd0Y4bELBA-14" value="ANSYS fluent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="JfAB1X2YwSDd0Y4bELBA-14" value="ANSYS fluent模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="450" y="330" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-15" value="建筑模型、中庭尺度、外廊宽度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
