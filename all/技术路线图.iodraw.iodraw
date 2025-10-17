@@ -190,6 +190,9 @@
         <mxCell id="qfVjqELMxZvmlqvvZ34_-8" value="遮雨评价指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="qfVjqELMxZvmlqvvZ34_-37">
           <mxGeometry y="0.11000000000001364" width="123.07692307692308" height="29.999999999999986" as="geometry" />
         </mxCell>
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-38" value="获取EPW文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="930" y="178" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
