@@ -52,17 +52,7 @@
           <mxGeometry x="450" y="300" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-15" value="建筑模型、中庭尺度、外廊宽度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="450" y="540" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JfAB1X2YwSDd0Y4bELBA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="JfAB1X2YwSDd0Y4bELBA-15" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="495.913043478261" y="477" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfAB1X2YwSDd0Y4bELBA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="JfAB1X2YwSDd0Y4bELBA-15" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="665.7391304347827" y="476.9000000000003" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="450" y="430" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-22" value="分析问题" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="260" height="40" as="geometry" />
