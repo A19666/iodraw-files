@@ -138,10 +138,10 @@
           <mxGeometry x="1360" y="300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-30" value="采光评价指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="936.9230769230769" y="370" width="123.07692307692308" height="29.999999999999986" as="geometry" />
+          <mxGeometry x="936.9230769230769" y="450" width="123.07692307692308" height="29.999999999999986" as="geometry" />
         </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-8" value="遮雨评价指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="800" y="370.11" width="123.07692307692308" height="29.999999999999986" as="geometry" />
+          <mxGeometry x="800" y="450.11" width="123.07692307692308" height="29.999999999999986" as="geometry" />
         </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-12" value="外廊雨水模拟" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="300.11" width="123.07692307692308" height="29.999999999999986" as="geometry" />
@@ -152,8 +152,8 @@
         <mxCell id="qfVjqELMxZvmlqvvZ34_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.046;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-2" target="JfAB1X2YwSDd0Y4bELBA-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qfVjqELMxZvmlqvvZ34_-17" value="高校围合式教学楼遮雨系统典型模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="440" y="540" width="280" height="30" as="geometry" />
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-17" value="输入模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="520" y="540" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
