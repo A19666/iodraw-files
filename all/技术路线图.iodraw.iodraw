@@ -159,8 +159,11 @@
         <mxCell id="qfVjqELMxZvmlqvvZ34_-17" value="输入模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="520" y="540" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qfVjqELMxZvmlqvvZ34_-23" target="JfAB1X2YwSDd0Y4bELBA-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qfVjqELMxZvmlqvvZ34_-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillStyle=hatch;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="210" width="300" height="290" as="geometry" />
+          <mxGeometry x="770" y="430" width="300" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
