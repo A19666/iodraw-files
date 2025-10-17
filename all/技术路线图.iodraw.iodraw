@@ -171,8 +171,8 @@
         <mxCell id="qfVjqELMxZvmlqvvZ34_-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillStyle=hatch;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="510" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qfVjqELMxZvmlqvvZ34_-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="540" y="518" width="40" height="30" as="geometry" />
+        <mxCell id="qfVjqELMxZvmlqvvZ34_-28" value="输入模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="525" y="518" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
