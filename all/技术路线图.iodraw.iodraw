@@ -83,9 +83,6 @@
         <mxCell id="qfVjqELMxZvmlqvvZ34_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-24" target="JfAB1X2YwSDd0Y4bELBA-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qfVjqELMxZvmlqvvZ34_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JfAB1X2YwSDd0Y4bELBA-24" target="qfVjqELMxZvmlqvvZ34_-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JfAB1X2YwSDd0Y4bELBA-24" value="WDR分布结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="450" y="370" width="260" height="30" as="geometry" />
         </mxCell>
